@@ -7,6 +7,7 @@ html {
   border-bottom: solid 3px #2d5a4d;
   border-top: solid 3px #2d5a4d;
   background-image: url("../images/leaf-bg.svg");
+  background-size: auto 32px;
 }
 
 .logo {
@@ -35,15 +36,16 @@ html {
   background-image: url("../images/banner.jpg");
   background-size: cover;
   background-position: center;
+  background-image: linear-gradient(to bottom, black 40%);
 }
 
 .banner-content {
   color: #fff;
-  padding-top: 10em;
+  padding-top: 18.5em;
   background: url("../images/two-leaves.svg");
-  background-position: 3% 25%;
+  background-position: 4% 43%;
   background-repeat: no-repeat;
-  background-size: 25%;
+  background-size: 30%;
 }
 
 @media only screen and (min-width: 60em) {
