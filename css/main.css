@@ -34,12 +34,16 @@ html {
 .banner {
   background-image: url("../images/banner.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 .banner-content {
   color: #fff;
   padding-top: 10em;
-  background: url("../images/two-leaves.svg") no-repeat left / 75px auto;
+  background: url("../images/two-leaves.svg");
+  background-position: 3% 25%;
+  background-repeat: no-repeat;
+  background-size: 25%;
 }
 
 @media only screen and (min-width: 60em) {
