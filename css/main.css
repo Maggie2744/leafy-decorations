@@ -45,11 +45,8 @@ html {
 
 .banner-content {
   color: #fff;
-  padding-top: 18.8em;
-  background: url("../images/two-leaves.svg");
-  background-position: 6% 41%;
-  background-repeat: no-repeat;
-  background-size: 31% auto;
+  padding-top: 300px;
+  background: url("../images/two-leaves.svg") no-repeat .75em 180px / 100px auto;
 }
 
 @media only screen and (min-width: 60em) {
@@ -60,10 +57,6 @@ html {
 
   .nav {
     text-align: right;
-  }
-
-  .banner-content {
-    background-size: 20%;
   }
 
 }
