@@ -36,14 +36,13 @@ html {
   background-image: url("../images/banner.jpg");
   background-size: cover;
   background-position: center;
-  background-image: linear-gradient(to bottom, black 40%);
 }
 
 .banner-content {
   color: #fff;
-  padding-top: 18.5em;
+  padding-top: 18.8em;
   background: url("../images/two-leaves.svg");
-  background-position: 4% 43%;
+  background-position: 5% 41%;
   background-repeat: no-repeat;
   background-size: 30%;
 }
