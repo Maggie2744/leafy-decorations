@@ -1,5 +1,6 @@
 html {
   font-family: Lora, serif;
+  background-color: #588477;
 }
 
 .masthead {
@@ -8,6 +9,7 @@ html {
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
@@ -16,6 +18,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  color: #fff;
+  background-color: #467366;
+  border: solid 3px #2d5a4d;
+  border-radius: 8px;
 }
 
 .nav a:hover {
